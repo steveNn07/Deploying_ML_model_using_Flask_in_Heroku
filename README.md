@@ -1,1 +1,1 @@
-# Deploying_ML_model_using_Flask_in_Heroku
+# Deploying ML model in Heroku platform(PaaS) 
